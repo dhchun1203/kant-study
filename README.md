@@ -14,3 +14,9 @@ git add -A
 git commit -m "commit message..."
 
 ```
+
+```bash
+# push command
+
+git push origin main
+```
